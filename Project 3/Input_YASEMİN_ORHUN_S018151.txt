@@ -1,0 +1,34 @@
+2
+0 1
+2
+0 1
+b
+13
+q1 q2 q3 q4 q5 q6 q7 q8 q9 q10 q11 qA qR
+q1
+qA
+qR
+q1 0 b R q2
+q1 1 b L q3
+q2 0 1 R q4
+q2 1 0 R q5
+q3 0 0 L q6
+q3 1 1 L q7
+q4 0 1 L q8
+q4 1 0 L q9
+q5 0 0 R q10
+q5 1 1 R q11
+q6 0 0 L q6
+q6 1 1 L q7
+q7 0 1 R q8
+q7 1 0 L q9
+q8 0 1 R q8
+q8 1 0 L q9
+q9 0 0 L q10
+q9 1 1 L q11
+q10 0 0 L q10
+q10 1 1 R q11
+q11 0 1 L qA
+q11 1 0 R qR
+STRING
+0110011011011011011
